@@ -31,11 +31,12 @@ Building LLM-powered agents requires choosing the right orchestration pattern fo
 
 This project demonstrates how LangGraph addresses these challenges through:
 
-- ✅ **ReAct loops** for tool-calling agents that reason step-by-step.
-- ✅ **Conditional edges** that route control based on LLM decisions or state.
-- ✅ **Structured state** that passes data between agents and pipeline steps.
-- ✅ **Safety mechanisms** like handoff limits and loop counters to prevent infinite loops.
-- ✅ **Quality gates** that evaluate output and loop back when it's not good enough.
+✅ **ReAct loops** for tool-calling agents that reason step-by-step.
+✅ **Conditional edges** that route control based on LLM decisions or state. 
+✅ **Comparing** model versions using LangFuse Datasets and Runs.  
+✅ **Safety mechanisms** like handoff limits and loop counters to prevent infinite loops.
+✅ **Quality gates** that evaluate output and loop back when it's not good enough.
+
 
 ## 📊 Domain: Healthcare Chatbot
 
