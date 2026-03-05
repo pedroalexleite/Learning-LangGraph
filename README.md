@@ -115,7 +115,7 @@ User Question → Supervisor → [Specialist Call → Result]* → Synthesized A
 
 **State**: `{messages}` — simpler than Router. Supervisor reasons over conversation, no classification label needed.
 
-<img width="1013" height="497" alt="Captura de ecrã 2026-03-05, às 09 17 36" src="https://github.com/user-attachments/assets/03677e8d-a8b8-46fc-89c9-ca18e9ddbe79" />
+<img width="1072" height="520" alt="Captura de ecrã 2026-03-05, às 18 24 11" src="https://github.com/user-attachments/assets/32521cae-5721-432b-bb58-f34b1164926b" />
 
 <img width="726" height="706" alt="Captura de ecrã 2026-03-05, às 09 17 43" src="https://github.com/user-attachments/assets/b4216180-bbe3-41ed-b0c0-1d5995c75043" />
 
